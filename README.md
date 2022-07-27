@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @moskusminer
-- 👀 open-source enthusiast, BTC and Lightning,Tor network
+- 👋 Hi, I’m @moskusminer 
+- 👀 open-source enthusiast from Norway, loves BTC and Lightning!
 - 🌱 I’m diving into the world of nodes
 - 💞️ I’m looking to collaborate on whaterver i can.
-- 📫 How to reach me --> moskusminerfarm@gmail.com
+- 📫 How to reach me --> simen@bitrom.com
+- Join our BTC Tecnical Forum at bitrom.no
 
 <!---
 moskusminer/moskusminer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
