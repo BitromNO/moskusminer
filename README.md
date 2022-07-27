@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moskusminer 
+- 👋 Hi, I’m @BitromNO
 - 👀 open-source enthusiast from Norway, loves BTC and Lightning!
 - 🌱 I’m diving into the world of nodes
 - 💞️ I’m looking to collaborate on whaterver i can.
